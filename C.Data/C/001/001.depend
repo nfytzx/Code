@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773624698 source:d:\vscodedata\c\001\main.c
+	<stdio.h>
+	<stdlib.h>
+

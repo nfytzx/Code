@@ -1,0 +1,10 @@
+import numpy as np
+
+A = np.array([[3, 1],
+              [1, 2]])
+
+b = np.array([9, 8])
+
+x, y = np.linalg.solve(A, b)
+
+print(x, y)
